@@ -1,0 +1,2 @@
+obstacleAvoidanceRobot/catkin_ws/src/motion_plan:obstacleAvoidanceRobot/simulation_ws/src/my_worlds:obstacleAvoidanceRobot/simulation_ws/src/robot_description
+-DCATKIN_DEVEL_PREFIX=/home/radu/obsavoid/devel -DCMAKE_INSTALL_PREFIX=/home/radu/obsavoid/install -G Unix Makefiles
